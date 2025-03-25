@@ -1,0 +1,1442 @@
+{
+  "text": " All right, all right, I signed the share of don't expect to get no calls from Tudor deputy next remember jigger got crescent and say your loss one middle school I'm on a lead as an arts and I'm finished trying to ruin what I start I'm doing trying to walk it through her more sabotage and stepping with a chip on my shoulder Don't chop it water spillin' out the flip box Talks brown skin and script launch and short messes from the rich dock Call a lesson or fish car glasses from the real blockers drinking different sizes Eyes on the prize time to organize keeping hollers on them What I know spotless high go round coil tight let the light from the core burn it all down pressure lift me out the six soccer Terrace I would on a red carpet from the still a put the real fly was I know the second step is well powered They only talk from the stills down in the middle of the survive career We're out in the big crowds. I'm a lead proud",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.04,
+      "end": 5.08,
+      "text": " All right, all right, I signed the share of don't expect to get no calls from",
+      "tokens": [
+        50364,
+        1057,
+        558,
+        11,
+        439,
+        558,
+        11,
+        286,
+        8175,
+        264,
+        2073,
+        295,
+        500,
+        380,
+        2066,
+        281,
+        483,
+        572,
+        5498,
+        490,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6329671925511854,
+      "compression_ratio": 1.6153846153846154,
+      "no_speech_prob": 0.6326778531074524,
+      "confidence": 0.452,
+      "words": [
+        {
+          "text": "All",
+          "start": 0.04,
+          "end": 0.68,
+          "confidence": 0.118
+        },
+        {
+          "text": "right,",
+          "start": 0.68,
+          "end": 1.58,
+          "confidence": 0.538
+        },
+        {
+          "text": "all",
+          "start": 1.58,
+          "end": 1.88,
+          "confidence": 0.481
+        },
+        {
+          "text": "right,",
+          "start": 1.88,
+          "end": 2.22,
+          "confidence": 0.966
+        },
+        {
+          "text": "I",
+          "start": 2.42,
+          "end": 2.46,
+          "confidence": 0.357
+        },
+        {
+          "text": "shot",
+          "start": 2.46,
+          "end": 2.62,
+          "confidence": 0.523
+        },
+        {
+          "text": "the",
+          "start": 2.62,
+          "end": 2.86,
+          "confidence": 0.484
+        },
+        {
+          "text": "sheriff",
+          "start": 2.86,
+          "end": 3.26,
+          "confidence": 0.413
+        },
+        {
+          "text": "don't",
+          "start": 3.26,
+          "end": 3.46,
+          "confidence": 0.214
+        },
+        {
+          "text": "expect",
+          "start": 3.46,
+          "end": 3.72,
+          "confidence": 0.687
+        },
+        {
+          "text": "to",
+          "start": 3.72,
+          "end": 3.96,
+          "confidence": 0.245
+        },
+        {
+          "text": "get",
+          "start": 3.96,
+          "end": 4.06,
+          "confidence": 0.817
+        },
+        {
+          "text": "no",
+          "start": 4.06,
+          "end": 4.3,
+          "confidence": 0.899
+        },
+        {
+          "text": "calls",
+          "start": 4.3,
+          "end": 4.7,
+          "confidence": 0.565
+        },
+        {
+          "text": "from him",
+          "start": 4.7,
+          "end": 5.08,
+          "confidence": 0.938
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.42,
+      "end": 10.48,
+      "text": " Tudor deputy next remember jigger got crescent and say your loss one middle school",
+      "tokens": [
+        50614,
+        314,
+        532,
+        284,
+        26692,
+        958,
+        1604,
+        361,
+        6812,
+        658,
+        20964,
+        2207,
+        293,
+        584,
+        428,
+        4470,
+        472,
+        2808,
+        1395,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6329671925511854,
+      "compression_ratio": 1.6153846153846154,
+      "no_speech_prob": 0.6326778531074524,
+      "confidence": 0.378,
+      "words": [
+        {
+          "text": "Tell the",
+          "start": 5.42,
+          "end": 5.8,
+          "confidence": 0.254
+        },
+        {
+          "text": "deputy",
+          "start": 5.8,
+          "end": 6.26,
+          "confidence": 0.351
+        },
+        {
+          "text": "next",
+          "start": 6.26,
+          "end": 6.86,
+          "confidence": 0.308
+        },
+        {
+          "text": "remember",
+          "start": 6.86,
+          "end": 7.28,
+          "confidence": 0.253
+        },
+        {
+          "text": "Jigga",
+          "start": 7.28,
+          "end": 7.64,
+          "confidence": 0.219
+        },
+        {
+          "text": "got",
+          "start": 7.64,
+          "end": 7.86,
+          "confidence": 0.642
+        },
+        {
+          "text": "Chrisette",
+          "start": 7.86,
+          "end": 8.38,
+          "confidence": 0.247
+        },
+        {
+          "text": "and",
+          "start": 8.38,
+          "end": 8.52,
+          "confidence": 0.641
+        },
+        {
+          "text": "say",
+          "start": 8.52,
+          "end": 8.66,
+          "confidence": 0.92
+        },
+        {
+          "text": "you",
+          "start": 8.66,
+          "end": 8.96,
+          "confidence": 0.486
+        },
+        {
+          "text": "lost",
+          "start": 8.96,
+          "end": 9.2,
+          "confidence": 0.552
+        },
+        {
+          "text": "one",
+          "start": 9.2,
+          "end": 9.68,
+          "confidence": 0.518
+        },
+        {
+          "text": "middle",
+          "start": 9.68,
+          "end": 10.14,
+          "confidence": 0.395
+        },
+        {
+          "text": "school",
+          "start": 10.14,
+          "end": 10.48,
+          "confidence": 0.918
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 10.56,
+      "end": 14.32,
+      "text": " I'm on a lead as an arts and I'm finished trying to ruin what I start",
+      "tokens": [
+        50864,
+        286,
+        478,
+        322,
+        257,
+        1477,
+        382,
+        364,
+        8609,
+        293,
+        286,
+        478,
+        4335,
+        1382,
+        281,
+        15514,
+        437,
+        286,
+        722,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6329671925511854,
+      "compression_ratio": 1.6153846153846154,
+      "no_speech_prob": 0.6326778531074524,
+      "confidence": 0.666,
+      "words": [
+        {
+          "text": "I",
+          "start": 10.56,
+          "end": 11.0,
+          "confidence": 0.786
+        },
+        {
+          "text": "moonlit",
+          "start": 11.0,
+          "end": 11.44,
+          "confidence": 0.644
+        },
+        {
+          "text": "as",
+          "start": 11.44,
+          "end": 11.7,
+          "confidence": 0.454
+        },
+        {
+          "text": "an",
+          "start": 11.7,
+          "end": 11.96,
+          "confidence": 0.453
+        },
+        {
+          "text": "arson",
+          "start": 11.96,
+          "end": 12.46,
+          "confidence": 0.309
+        },
+        {
+          "text": "I'm",
+          "start": 12.46,
+          "end": 12.7,
+          "confidence": 0.871
+        },
+        {
+          "text": "finished",
+          "start": 12.7,
+          "end": 13.0,
+          "confidence": 0.826
+        },
+        {
+          "text": "tryna",
+          "start": 13.0,
+          "end": 13.44,
+          "confidence": 0.785
+        },
+        {
+          "text": "ruin",
+          "start": 13.44,
+          "end": 13.68,
+          "confidence": 0.75
+        },
+        {
+          "text": "what",
+          "start": 13.68,
+          "end": 13.86,
+          "confidence": 0.976
+        },
+        {
+          "text": "I",
+          "start": 13.86,
+          "end": 14.0,
+          "confidence": 0.955
+        },
+        {
+          "text": "start",
+          "start": 14.0,
+          "end": 14.32,
+          "confidence": 0.761
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 14.64,
+      "end": 19.48,
+      "text": " I'm doing trying to walk it through her more sabotage and stepping with a chip on my shoulder",
+      "tokens": [
+        51064,
+        286,
+        478,
+        884,
+        1382,
+        281,
+        1792,
+        309,
+        807,
+        720,
+        544,
+        37167,
+        609,
+        293,
+        16821,
+        365,
+        257,
+        11409,
+        322,
+        452,
+        7948,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6329671925511854,
+      "compression_ratio": 1.6153846153846154,
+      "no_speech_prob": 0.6326778531074524,
+      "confidence": 0.663,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 14.64,
+          "end": 14.84,
+          "confidence": 0.856
+        },
+        {
+          "text": "through with",
+          "start": 14.84,
+          "end": 15.08,
+          "confidence": 0.895
+        },
+        {
+          "text": "tryna",
+          "start": 15.08,
+          "end": 15.6,
+          "confidence": 0.877
+        },
+
+        {
+          "text": "barter",
+          "start": 15.6,
+          "end": 15.96,
+          "confidence": 0.2
+        },
+
+        {
+          "text": "for",
+          "start": 15.96,
+          "end": 16.16,
+          "confidence": 0.496
+        },
+        {
+          "text": "remorse",
+          "start": 16.16,
+          "end": 16.62,
+          "confidence": 0.794
+        },
+        {
+          "text": "sabotagin'",
+          "start": 16.62,
+          "end": 17.9,
+          "confidence": 0.709
+        },
+        {
+          "text": "steppin'",
+          "start": 17.9,
+          "end": 18.14,
+          "confidence": 0.84
+        },
+        {
+          "text": "with",
+          "start": 18.14,
+          "end": 18.42,
+          "confidence": 0.555
+        },
+        {
+          "text": "a",
+          "start": 18.42,
+          "end": 18.66,
+          "confidence": 0.678
+        },
+        {
+          "text": "chip",
+          "start": 18.66,
+          "end": 18.9,
+          "confidence": 0.881
+        },
+        {
+          "text": "on",
+          "start": 18.9,
+          "end": 19.1,
+          "confidence": 0.803
+        },
+        {
+          "text": "my",
+          "start": 19.1,
+          "end": 19.3,
+          "confidence": 0.912
+        },
+        {
+          "text": "shoulder",
+          "start": 19.3,
+          "end": 19.48,
+          "confidence": 0.724
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 19.6,
+      "end": 22.48,
+      "text": " Don't chop it water spillin' out the flip box",
+      "tokens": [
+        51314,
+        1468,
+        380,
+        7931,
+        309,
+        1281,
+        22044,
+        259,
+        6,
+        484,
+        264,
+        7929,
+        2424,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6329671925511854,
+      "compression_ratio": 1.6153846153846154,
+      "no_speech_prob": 0.6326778531074524,
+      "confidence": 0.541,
+      "words": [
+        {
+          "text": "Don't",
+          "start": 19.6,
+          "end": 20.08,
+          "confidence": 0.973
+        },
+        {
+          "text": "chomp",
+          "start": 20.08,
+          "end": 20.48,
+          "confidence": 0.909
+        },
+        {
+          "text": "it",
+          "start": 20.48,
+          "end": 20.86,
+          "confidence": 0.421
+        },
+        {
+          "text": "water",
+          "start": 20.86,
+          "end": 21.12,
+          "confidence": 0.261
+        },
+        {
+          "text": "spillin'",
+          "start": 21.12,
+          "end": 21.64,
+          "confidence": 0.447
+        },
+        {
+          "text": "out",
+          "start": 21.64,
+          "end": 21.82,
+          "confidence": 0.894
+        },
+        {
+          "text": "the",
+          "start": 21.82,
+          "end": 22.04,
+          "confidence": 0.53
+        },
+        {
+          "text": "Flint",
+          "start": 22.04,
+          "end": 22.28,
+          "confidence": 0.32
+        },
+        {
+          "text": "faucet",
+          "start": 22.28,
+          "end": 22.48,
+          "confidence": 0.492
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 23.1,
+      "end": 27.38,
+      "text": " Talks brown skin and script launch and short messes from the rich dock",
+      "tokens": [
+        51464,
+        8780,
+        82,
+        6292,
+        3178,
+        293,
+        5755,
+        4025,
+        293,
+        2099,
+        2082,
+        279,
+        490,
+        264,
+        4593,
+        20929,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6329671925511854,
+      "compression_ratio": 1.6153846153846154,
+      "no_speech_prob": 0.6326778531074524,
+      "confidence": 0.466,
+      "words": [
+        {
+          "text": "Toxic",
+          "start": 23.1,
+          "end": 23.92,
+          "confidence": 0.591
+        },
+        {
+          "text": "brown",
+          "start": 23.92,
+          "end": 24.16,
+          "confidence": 0.42
+        },
+        {
+          "text": "skin",
+          "start": 24.16,
+          "end": 24.44,
+          "confidence": 0.765
+        },
+        {
+          "text": "a",
+          "start": 24.44,
+          "end": 24.66,
+          "confidence": 0.337
+        },
+        {
+          "text": "script",
+          "start": 24.66,
+          "end": 24.9,
+          "confidence": 0.336
+        },
+        {
+          "text": "long",
+          "start": 24.9,
+          "end": 25.42,
+          "confidence": 0.293
+        },
+        {
+          "text": "as",
+          "start": 25.42,
+          "end": 25.8,
+          "confidence": 0.466
+        },
+        {
+          "text": "shit",
+          "start": 25.8,
+          "end": 26.04,
+          "confidence": 0.652
+        },
+        {
+          "text": "short message",
+          "start": 26.04,
+          "end": 26.5,
+          "confidence": 0.258
+        },
+        {
+          "text": "from",
+          "start": 26.5,
+          "end": 26.66,
+          "confidence": 0.919
+        },
+        {
+          "text": "the",
+          "start": 26.66,
+          "end": 26.86,
+          "confidence": 0.876
+        },
+        {
+          "text": "witch",
+          "start": 26.86,
+          "end": 27.14,
+          "confidence": 0.662
+        },
+        {
+          "text": "doctor",
+          "start": 27.14,
+          "end": 27.38,
+          "confidence": 0.263
+        },
+        {
+            "text": "we all just",
+            "start": 27.38,
+            "end": 27.76,
+            "confidence": 0.263
+          }
+
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2700,
+      "start": 28.76,
+      "end": 33.48,
+      "text": " Call a lesson or fish car glasses from the real blockers drinking different sizes",
+      "tokens": [
+        50414,
+        7807,
+        257,
+        6898,
+        420,
+        3506,
+        1032,
+        10812,
+        490,
+        264,
+        957,
+        3461,
+        433,
+        7583,
+        819,
+        11602,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5326406500312719,
+      "compression_ratio": 1.6419213973799127,
+      "no_speech_prob": 0.3700965940952301,
+      "confidence": 0.511,
+      "words": [
+        {
+          "text": "Coalescin'",
+          "start": 28.76,
+          "end": 29.48,
+          "confidence": 0.13
+        },
+        {
+          "text": "Or",
+          "start": 29.48,
+          "end": 29.86,
+          "confidence": 0.591
+        },
+        {
+          "text": "a fist",
+          "start": 29.86,
+          "end": 30.2,
+          "confidence": 0.274
+        },
+        {
+          "text": "called",
+          "start": 30.2,
+          "end": 30.52,
+          "confidence": 0.312
+        },
+        {
+          "text": "blessings",
+          "start": 30.52,
+          "end": 30.88,
+          "confidence": 0.173
+        },
+        {
+          "text": "from",
+          "start": 30.88,
+          "end": 31.12,
+          "confidence": 0.873
+        },
+        {
+          "text": "the",
+          "start": 31.12,
+          "end": 31.34,
+          "confidence": 0.953
+        },
+        {
+          "text": "real",
+          "start": 31.34,
+          "end": 31.6,
+          "confidence": 0.94
+        },
+        {
+          "text": "flockers",
+          "start": 31.6,
+          "end": 32.4,
+          "confidence": 0.711
+        },
+        {
+          "text": "Drippin'",
+          "start": 32.4,
+          "end": 32.76,
+          "confidence": 0.173
+        },
+        {
+          "text": "different",
+          "start": 32.76,
+          "end": 33.12,
+          "confidence": 0.916
+        },
+        {
+          "text": "sizes",
+          "start": 33.12,
+          "end": 33.48,
+          "confidence": 0.974
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2700,
+      "start": 33.96,
+      "end": 38.16,
+      "text": " Eyes on the prize time to organize keeping hollers on them",
+      "tokens": [
+        50664,
+        28925,
+        322,
+        264,
+        12818,
+        565,
+        281,
+        13859,
+        5145,
+        1106,
+        20278,
+        322,
+        552,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5326406500312719,
+      "compression_ratio": 1.6419213973799127,
+      "no_speech_prob": 0.3700965940952301,
+      "confidence": 0.554,
+      "words": [
+        {
+          "text": "Eyes",
+          "start": 33.96,
+          "end": 34.3,
+          "confidence": 0.593
+        },
+        {
+          "text": "on",
+          "start": 34.3,
+          "end": 34.48,
+          "confidence": 0.996
+        },
+        {
+          "text": "the",
+          "start": 34.48,
+          "end": 34.72,
+          "confidence": 0.821
+        },
+        {
+          "text": "prize",
+          "start": 34.72,
+          "end": 35.26,
+          "confidence": 0.58
+        },
+        {
+          "text": "time",
+          "start": 35.26,
+          "end": 35.7,
+          "confidence": 0.826
+        },
+        {
+          "text": "to",
+          "start": 35.7,
+          "end": 35.94,
+          "confidence": 0.789
+        },
+        {
+          "text": "organize",
+          "start": 35.94,
+          "end": 36.52,
+          "confidence": 0.964
+        },
+        {
+          "text": "keep it",
+          "start": 36.52,
+          "end": 37.24,
+          "confidence": 0.637
+        },
+        {
+          "text": "horizontal",
+          "start": 37.24,
+          "end": 38.16,
+          "confidence": 0.129
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2700,
+      "start": 38.52,
+      "end": 46.48,
+      "text": " What I know spotless high go round coil tight let the light from the core burn it all down pressure lift me out the six soccer",
+      "tokens": [
+        50914,
+        708,
+        286,
+        458,
+        4008,
+        1832,
+        1090,
+        352,
+        3098,
+        22225,
+        4524,
+        718,
+        264,
+        1442,
+        490,
+        264,
+        4965,
+        5064,
+        309,
+        439,
+        760,
+        3321,
+        5533,
+        385,
+        484,
+        264,
+        2309,
+        15469,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5326406500312719,
+      "compression_ratio": 1.6419213973799127,
+      "no_speech_prob": 0.3700965940952301,
+      "confidence": 0.611,
+      "words": [
+        {
+          "text": "But",
+          "start": 38.52,
+          "end": 38.72,
+          "confidence": 0.519
+        },
+        {
+          "text": "I",
+          "start": 38.72,
+          "end": 38.86,
+          "confidence": 0.822
+        },
+        {
+          "text": "know",
+          "start": 38.86,
+          "end": 39.12,
+          "confidence": 0.955
+        },
+        {
+          "text": "spirals",
+          "start": 39.12,
+          "end": 39.94,
+          "confidence": 0.483
+        },
+        {
+          "text": "how it",
+          "start": 39.94,
+          "end": 40.32,
+          "confidence": 0.667
+        },
+        {
+          "text": "go",
+          "start": 40.32,
+          "end": 40.66,
+          "confidence": 0.374
+        },
+        {
+          "text": "'round",
+          "start": 40.66,
+          "end": 41.2,
+          "confidence": 0.618
+        },
+        {
+          "text": "coil",
+          "start": 41.2,
+          "end": 41.76,
+          "confidence": 0.812
+        },
+        {
+          "text": "tight",
+          "start": 41.76,
+          "end": 42.16,
+          "confidence": 0.89
+        },
+        {
+          "text": "let",
+          "start": 42.16,
+          "end": 42.4,
+          "confidence": 0.444
+        },
+        {
+          "text": "the",
+          "start": 42.4,
+          "end": 42.58,
+          "confidence": 0.896
+        },
+        {
+          "text": "light",
+          "start": 42.58,
+          "end": 42.88,
+          "confidence": 0.926
+        },
+        {
+          "text": "from",
+          "start": 42.88,
+          "end": 43.12,
+          "confidence": 0.947
+        },
+        {
+          "text": "the",
+          "start": 43.12,
+          "end": 43.36,
+          "confidence": 0.952
+        },
+        {
+          "text": "core",
+          "start": 43.36,
+          "end": 43.64,
+          "confidence": 0.288
+        },
+        {
+          "text": "burn",
+          "start": 43.64,
+          "end": 43.92,
+          "confidence": 0.439
+        },
+        {
+          "text": "it",
+          "start": 43.92,
+          "end": 44.16,
+          "confidence": 0.94
+        },
+        {
+          "text": "all",
+          "start": 44.16,
+          "end": 44.4,
+          "confidence": 0.87
+        },
+        {
+          "text": "down",
+          "start": 44.4,
+          "end": 44.74,
+          "confidence": 0.965
+        },
+        {
+          "text": "pressure",
+          "start": 44.74,
+          "end": 45.16,
+          "confidence": 0.635
+        },
+        {
+          "text": "lift",
+          "start": 45.16,
+          "end": 45.46,
+          "confidence": 0.511
+        },
+        {
+          "text": "me",
+          "start": 45.46,
+          "end": 45.62,
+          "confidence": 0.537
+        },
+        {
+          "text": "out",
+          "start": 45.62,
+          "end": 45.8,
+          "confidence": 0.563
+        },
+        {
+          "text": "the",
+          "start": 45.8,
+          "end": 45.98,
+          "confidence": 0.73
+        },
+        {
+          "text": "sixth",
+          "start": 45.98,
+          "end": 46.28,
+          "confidence": 0.53
+        },
+        {
+          "text": "shakra",
+          "start": 46.28,
+          "end": 46.48,
+          "confidence": 0.126
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2700,
+      "start": 47.42,
+      "end": 53.48,
+      "text": " Terrace I would on a red carpet from the still a put the real fly was I know the second step is well powered",
+      "tokens": [
+        51314,
+        36591,
+        617,
+        286,
+        576,
+        322,
+        257,
+        2182,
+        18119,
+        490,
+        264,
+        920,
+        257,
+        829,
+        264,
+        957,
+        3603,
+        390,
+        286,
+        458,
+        264,
+        1150,
+        1823,
+        307,
+        731,
+        17786,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5326406500312719,
+      "compression_ratio": 1.6419213973799127,
+      "no_speech_prob": 0.3700965940952301,
+      "confidence": 0.601,
+      "words": [
+        {
+          "text": "Terrence",
+          "start": 47.42,
+          "end": 47.88,
+          "confidence": 0.33
+        },
+        {
+          "text": "Howard",
+          "start": 47.88,
+          "end": 48.24,
+          "confidence": 0.234
+        },
+        {
+          "text": "on",
+          "start": 48.24,
+          "end": 48.42,
+          "confidence": 0.875
+        },
+        {
+          "text": "the",
+          "start": 48.42,
+          "end": 48.62,
+          "confidence": 0.495
+        },
+        {
+          "text": "red",
+          "start": 48.62,
+          "end": 48.94,
+          "confidence": 0.741
+        },
+        {
+          "text": "carpet",
+          "start": 48.94,
+          "end": 49.4,
+          "confidence": 0.782
+        },
+        {
+          "text": "from",
+          "start": 49.4,
+          "end": 49.86,
+          "confidence": 0.967
+        },
+        {
+          "text": "the",
+          "start": 49.86,
+          "end": 50.04,
+          "confidence": 0.981
+        },
+        {
+          "text": "steel",
+          "start": 50.04,
+          "end": 50.24,
+          "confidence": 0.322
+        },
+        {
+          "text": "and",
+          "start": 50.24,
+          "end": 50.52,
+          "confidence": 0.336
+        },
+        {
+          "text": "pluck",
+          "start": 50.52,
+          "end": 50.64,
+          "confidence": 0.331
+        },
+        {
+          "text": "the",
+          "start": 50.64,
+          "end": 50.88,
+          "confidence": 0.727
+        },
+        {
+          "text": "real",
+          "start": 50.88,
+          "end": 51.14,
+          "confidence": 0.996
+        },
+        {
+          "text": "flowers",
+          "start": 51.14,
+          "end": 51.76,
+          "confidence": 0.638
+        },
+        {
+          "text": "I",
+          "start": 51.76,
+          "end": 51.94,
+          "confidence": 0.749
+        },
+        {
+          "text": "know",
+          "start": 51.94,
+          "end": 52.12,
+          "confidence": 0.934
+        },
+        {
+          "text": "the",
+          "start": 52.12,
+          "end": 52.32,
+          "confidence": 0.985
+        },
+        {
+          "text": "second",
+          "start": 52.32,
+          "end": 52.6,
+          "confidence": 0.857
+        },
+        {
+          "text": "step",
+          "start": 52.6,
+          "end": 52.9,
+          "confidence": 0.942
+        },
+        {
+          "text": "is",
+          "start": 52.9,
+          "end": 53.16,
+          "confidence": 0.579
+        },
+        {
+          "text": "willpower",
+          "start": 53.16,
+          "end": 53.48,
+          "confidence": 0.586
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 5300,
+      "start": 54.08,
+      "end": 58.3,
+      "text": " They only talk from the stills down in the middle of the survive career",
+      "tokens": [
+        50414,
+        814,
+        787,
+        751,
+        490,
+        264,
+        920,
+        82,
+        760,
+        294,
+        264,
+        2808,
+        295,
+        264,
+        7867,
+        3988,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6302219159675367,
+      "compression_ratio": 1.2061855670103092,
+      "no_speech_prob": 0.3075653910636902,
+      "confidence": 0.5,
+      "words": [
+        {
+          "text": "They",
+          "start": 54.08,
+          "end": 54.28,
+          "confidence": 0.303
+        },
+        {
+          "text": "only",
+          "start": 54.28,
+          "end": 54.62,
+          "confidence": 0.504
+        },
+        {
+          "text": "talk",
+          "start": 54.62,
+          "end": 54.9,
+          "confidence": 0.358
+        },
+        {
+          "text": "from",
+          "start": 54.9,
+          "end": 55.1,
+          "confidence": 0.928
+        },
+        {
+          "text": "the",
+          "start": 55.1,
+          "end": 55.24,
+          "confidence": 0.891
+        },
+        {
+          "text": "stilts",
+          "start": 55.24,
+          "end": 55.68,
+          "confidence": 0.644
+        },
+        {
+          "text": "down",
+          "start": 55.68,
+          "end": 56.24,
+          "confidence": 0.979
+        },
+        {
+          "text": "in",
+          "start": 56.24,
+          "end": 56.74,
+          "confidence": 0.879
+        },
+        {
+          "text": "the",
+          "start": 56.74,
+          "end": 56.9,
+          "confidence": 0.508
+        },
+        {
+          "text": "middle",
+          "start": 56.9,
+          "end": 57.12,
+          "confidence": 0.996
+        },
+        {
+          "text": "of",
+          "start": 57.12,
+          "end": 57.36,
+          "confidence": 0.412
+        },
+        {
+          "text": "the",
+          "start": 57.36,
+          "end": 57.56,
+          "confidence": 0.601
+        },
+        {
+          "text": "trip",
+          "start": 57.56,
+          "end": 57.9,
+          "confidence": 0.042
+        },
+        {
+          "text": "I couldn't reroute it",
+          "start": 57.9,
+          "end": 58.3,
+          "confidence": 0.353
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 5300,
+      "start": 58.36,
+      "end": 62.78,
+      "text": " We're out in the big crowds. I'm a lead proud",
+      "tokens": [
+        50614,
+        492,
+        434,
+        484,
+        294,
+        264,
+        955,
+        26070,
+        13,
+        286,
+        478,
+        257,
+        1477,
+        4570,
+        50839
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6302219159675367,
+      "compression_ratio": 1.2061855670103092,
+      "no_speech_prob": 0.3075653910636902,
+      "confidence": 0.574,
+      "words": [
+        {
+          "text": "Steep",
+          "start": 58.36,
+          "end": 58.98,
+          "confidence": 0.275
+        },
+        {
+          "text": "falls",
+          "start": 58.98,
+          "end": 59.08,
+          "confidence": 0.797
+        },
+        {
+          "text": "into",
+          "start": 59.08,
+          "end": 59.86,
+          "confidence": 0.366
+        },
+        {
+          "text": "big",
+          "start": 59.86,
+          "end": 60.72,
+          "confidence": 0.899
+        },
+        {
+          "text": "crowds.",
+          "start": 60.72,
+          "end": 61.34,
+          "confidence": 0.828
+        },
+        {
+          "text": "I'ma",
+          "start": 61.4,
+          "end": 62.12,
+          "confidence": 0.982
+        },
+        {
+          "text": "leave",
+          "start": 62.12,
+          "end": 62.42,
+          "confidence": 0.937
+        },
+        {
+          "text": "proudly",
+          "start": 62.42,
+          "end": 62.78,
+          "confidence": 0.245
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}
