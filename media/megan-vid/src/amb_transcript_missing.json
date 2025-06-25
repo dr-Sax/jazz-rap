@@ -1,0 +1,341 @@
+{
+  "text": " Perfect all-American bitch With perfect all-American lips And perfect all-American hips I know my place, I know my place And I don't get angry when I'm pissed I'm the eternal opposite",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.92,
+      "text": " Perfect all-American bitch",
+      "tokens": [
+        50365,
+        10246,
+        439,
+        12,
+        14604,
+        11960,
+        50481
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22988148088808413,
+      "compression_ratio": 1.5775862068965518,
+      "no_speech_prob": 0.03299139812588692,
+      "confidence": 0.734,
+      "words": [
+        {
+          "text": "Perfect",
+          "start": 0.0,
+          "end": 0.2,
+          "confidence": 0.403
+        },
+        {
+          "text": "all-American",
+          "start": 0.2,
+          "end": 1.08,
+          "confidence": 0.85
+        },
+        {
+          "text": "bitch",
+          "start": 1.08,
+          "end": 1.92,
+          "confidence": 0.864
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.76,
+      "end": 5.24,
+      "text": " With perfect all-American lips",
+      "tokens": [
+        50481,
+        2022,
+        2176,
+        439,
+        12,
+        14604,
+        10118,
+        50649
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22988148088808413,
+      "compression_ratio": 1.5775862068965518,
+      "no_speech_prob": 0.03299139812588692,
+      "confidence": 0.994,
+      "words": [
+        {
+          "text": "With",
+          "start": 2.76,
+          "end": 2.9,
+          "confidence": 0.987
+        },
+        {
+          "text": "perfect",
+          "start": 2.9,
+          "end": 3.26,
+          "confidence": 0.997
+        },
+        {
+          "text": "all-American",
+          "start": 3.26,
+          "end": 4.24,
+          "confidence": 0.999
+        },
+        {
+          "text": "lips",
+          "start": 4.24,
+          "end": 5.24,
+          "confidence": 0.986
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 5.62,
+      "end": 7.8,
+      "text": " And perfect all-American hips",
+      "tokens": [
+        50649,
+        400,
+        2176,
+        439,
+        12,
+        14604,
+        15233,
+        50792
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22988148088808413,
+      "compression_ratio": 1.5775862068965518,
+      "no_speech_prob": 0.03299139812588692,
+      "confidence": 0.999,
+      "words": [
+        {
+          "text": "And",
+          "start": 5.62,
+          "end": 5.96,
+          "confidence": 0.998
+        },
+        {
+          "text": "perfect",
+          "start": 5.96,
+          "end": 6.3,
+          "confidence": 1.0
+        },
+        {
+          "text": "all-American",
+          "start": 6.3,
+          "end": 7.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "hips",
+          "start": 7.24,
+          "end": 7.8,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 8.78,
+      "end": 11.71,
+      "text": " I know my place, I know my place",
+      "tokens": [
+        50792,
+        286,
+        458,
+        452,
+        1081,
+        11,
+        286,
+        458,
+        452,
+        1081,
+        50961
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22988148088808413,
+      "compression_ratio": 1.5775862068965518,
+      "no_speech_prob": 0.03299139812588692,
+      "confidence": 0.999,
+      "words": [
+        {
+          "text": "I",
+          "start": 8.78,
+          "end": 8.88,
+          "confidence": 0.998
+        },
+        {
+          "text": "know",
+          "start": 8.88,
+          "end": 9.2,
+          "confidence": 0.998
+        },
+        {
+          "text": "my",
+          "start": 9.2,
+          "end": 9.76,
+          "confidence": 1.0
+        },
+        {
+          "text": "place,",
+          "start": 9.76,
+          "end": 10.18,
+          "confidence": 0.997
+        },
+        {
+          "text": "I",
+          "start": 10.28,
+          "end": 10.52,
+          "confidence": 0.999
+        },
+        {
+          "text": "know",
+          "start": 10.52,
+          "end": 10.88,
+          "confidence": 1.0
+        },
+        {
+          "text": "my",
+          "start": 10.88,
+          "end": 11.1,
+          "confidence": 1.0
+        },
+        {
+          "text": "place",
+          "start": 11.1,
+          "end": 11.71,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 11.71,
+      "end": 16.27,
+      "text": " And I don't get angry when I'm pissed",
+      "tokens": [
+        50961,
+        400,
+        286,
+        500,
+        380,
+        483,
+        6884,
+        562,
+        286,
+        478,
+        23795,
+        51188
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22988148088808413,
+      "compression_ratio": 1.5775862068965518,
+      "no_speech_prob": 0.03299139812588692,
+      "confidence": 0.852,
+      "words": [
+        {
+          "text": "And",
+          "start": 11.71,
+          "end": 12.04,
+          "confidence": 0.892
+        },
+        {
+          "text": "I",
+          "start": 12.04,
+          "end": 12.38,
+          "confidence": 0.395
+        },
+        {
+          "text": "don't",
+          "start": 12.38,
+          "end": 14.1,
+          "confidence": 0.991
+        },
+        {
+          "text": "get",
+          "start": 14.1,
+          "end": 14.24,
+          "confidence": 0.999
+        },
+        {
+          "text": "angry",
+          "start": 14.24,
+          "end": 14.92,
+          "confidence": 1.0
+        },
+        {
+          "text": "when",
+          "start": 14.92,
+          "end": 15.48,
+          "confidence": 0.986
+        },
+        {
+          "text": "I'm",
+          "start": 15.48,
+          "end": 15.88,
+          "confidence": 0.771
+        },
+        {
+          "text": "pissed",
+          "start": 15.88,
+          "end": 16.27,
+          "confidence": 0.993
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 16.27,
+      "end": 18.72,
+      "text": " I'm the eternal opposite",
+      "tokens": [
+        51188,
+        286,
+        478,
+        264,
+        14503,
+        6182,
+        51308
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22988148088808413,
+      "compression_ratio": 1.5775862068965518,
+      "no_speech_prob": 0.03299139812588692,
+      "confidence": 0.553,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 16.27,
+          "end": 16.72,
+          "confidence": 0.679
+        },
+        {
+          "text": "the",
+          "start": 16.72,
+          "end": 16.9,
+          "confidence": 0.867
+        },
+        {
+          "text": "eternal",
+          "start": 16.9,
+          "end": 17.88,
+          "confidence": 0.778
+        },
+        {
+          "text": "opposite",
+          "start": 17.88,
+          "end": 18.72,
+          "confidence": 0.166
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

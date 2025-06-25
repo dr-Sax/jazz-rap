@@ -1,0 +1,2 @@
+The concept here is to assess how to link basic pitch audio data with a rhythmic cutup using movie.py
+

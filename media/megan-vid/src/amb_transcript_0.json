@@ -1,0 +1,2200 @@
+{
+  "text": " I am light as a feather and as stiff as a board I pay attention to things that most people ignore And I'm alright with the movies that make jokes About senseless cruelty, that's for sure And I am built like a mother and a total machine I feel free for every little issue, I know just what you mean And I make light of the darkness, I've got sun in my motherfucking pocket Cause we, yeah you know me, I Forgive and I forgive I know my age and I act like it God, what you can't resist I'm a perfect American I am light as a feather, I'm as fresh as the air Coca-Cola bottles that ail me used to curl my hair I've got class and integrity just like the goddamn Kennedy, I swear With love and integrity, I'm a perfect American I'm a perfect American I'm a perfect American I'm a perfect American I'm this, I'm the eternal optimist I scream inside to feel it new again Again All the time I'm grateful all the time I'm sexy and I'm beautiful I'm kind I'm pretty when I cry All the time I'm grateful all the time I'm sexy and I'm kind I'm pretty when I cry",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 6.48,
+      "end": 9.62,
+      "text": " I am light as a feather and as stiff as a board",
+      "tokens": [
+        50365,
+        286,
+        669,
+        1442,
+        382,
+        257,
+        25852,
+        293,
+        382,
+        15451,
+        382,
+        257,
+        3150,
+        50880
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24653678894042969,
+      "compression_ratio": 1.3777777777777778,
+      "no_speech_prob": 0.1995357722043991,
+      "confidence": 0.882,
+      "words": [
+        {
+          "text": "I",
+          "start": 6.48,
+          "end": 6.5,
+          "confidence": 0.315
+        },
+        {
+          "text": "am",
+          "start": 6.5,
+          "end": 6.94,
+          "confidence": 0.809
+        },
+        {
+          "text": "light",
+          "start": 6.94,
+          "end": 7.28,
+          "confidence": 0.958
+        },
+        {
+          "text": "as",
+          "start": 7.28,
+          "end": 7.7,
+          "confidence": 0.997
+        },
+        {
+          "text": "a",
+          "start": 7.7,
+          "end": 7.86,
+          "confidence": 0.998
+        },
+        {
+          "text": "feather",
+          "start": 7.86,
+          "end": 8.24,
+          "confidence": 0.999
+        },
+        {
+          "text": "I'm",
+          "start": 8.24,
+          "end": 8.56,
+          "confidence": 0.959
+        },
+        {
+          "text": "as",
+          "start": 8.56,
+          "end": 8.68,
+          "confidence": 0.97
+        },
+        {
+          "text": "stiff",
+          "start": 8.68,
+          "end": 8.94,
+          "confidence": 0.999
+        },
+        {
+          "text": "as",
+          "start": 8.94,
+          "end": 9.1,
+          "confidence": 0.999
+        },
+        {
+          "text": "a",
+          "start": 9.1,
+          "end": 9.32,
+          "confidence": 0.995
+        },
+        {
+          "text": "board",
+          "start": 9.32,
+          "end": 9.62,
+          "confidence": 0.986
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 12.26,
+      "end": 15.6,
+      "text": " I pay attention to things that most people ignore",
+      "tokens": [
+        50880,
+        286,
+        1689,
+        3202,
+        281,
+        721,
+        300,
+        881,
+        561,
+        11200,
+        51206
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24653678894042969,
+      "compression_ratio": 1.3777777777777778,
+      "no_speech_prob": 0.1995357722043991,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "I",
+          "start": 12.26,
+          "end": 12.66,
+          "confidence": 1.0
+        },
+        {
+          "text": "pay",
+          "start": 12.66,
+          "end": 13.0,
+          "confidence": 1.0
+        },
+        {
+          "text": "attention",
+          "start": 13.0,
+          "end": 13.56,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 13.56,
+          "end": 13.88,
+          "confidence": 1.0
+        },
+        {
+          "text": "things",
+          "start": 13.88,
+          "end": 14.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "that",
+          "start": 14.16,
+          "end": 14.42,
+          "confidence": 1.0
+        },
+        {
+          "text": "most",
+          "start": 14.42,
+          "end": 14.7,
+          "confidence": 1.0
+        },
+        {
+          "text": "people",
+          "start": 14.7,
+          "end": 15.14,
+          "confidence": 1.0
+        },
+        {
+          "text": "ignore",
+          "start": 15.14,
+          "end": 15.6,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 18.38,
+      "end": 21.94,
+      "text": " And I'm alright with the movies that make jokes",
+      "tokens": [
+        51206,
+        400,
+        286,
+        478,
+        5845,
+        365,
+        264,
+        6233,
+        300,
+        652,
+        14439,
+        51473
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24653678894042969,
+      "compression_ratio": 1.3777777777777778,
+      "no_speech_prob": 0.1995357722043991,
+      "confidence": 0.998,
+      "words": [
+        {
+          "text": "And",
+          "start": 18.38,
+          "end": 18.64,
+          "confidence": 0.999
+        },
+        {
+          "text": "I'm",
+          "start": 18.64,
+          "end": 19.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "alright",
+          "start": 19.24,
+          "end": 19.58,
+          "confidence": 0.997
+        },
+        {
+          "text": "with",
+          "start": 19.58,
+          "end": 20.06,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 20.06,
+          "end": 20.14,
+          "confidence": 0.982
+        },
+        {
+          "text": "movies",
+          "start": 20.14,
+          "end": 20.72,
+          "confidence": 1.0
+        },
+        {
+          "text": "that",
+          "start": 20.72,
+          "end": 21.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "make",
+          "start": 21.24,
+          "end": 21.6,
+          "confidence": 1.0
+        },
+        {
+          "text": "jokes",
+          "start": 21.6,
+          "end": 21.94,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 22.02,
+      "end": 25.12,
+      "text": " About senseless cruelty, that's for sure",
+      "tokens": [
+        51473,
+        7769,
+        2923,
+        4272,
+        40145,
+        11,
+        300,
+        311,
+        337,
+        988,
+        51649
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24653678894042969,
+      "compression_ratio": 1.3777777777777778,
+      "no_speech_prob": 0.1995357722043991,
+      "confidence": 0.991,
+      "words": [
+        {
+          "text": "'bout",
+          "start": 22.02,
+          "end": 22.4,
+          "confidence": 0.932
+        },
+        {
+          "text": "senseless",
+          "start": 22.4,
+          "end": 23.16,
+          "confidence": 0.999
+        },
+        {
+          "text": "cruelty",
+          "start": 23.16,
+          "end": 23.68,
+          "confidence": 1.0
+        },
+        {
+          "text": "that's",
+          "start": 23.96,
+          "end": 24.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "for",
+          "start": 24.5,
+          "end": 24.56,
+          "confidence": 1.0
+        },
+        {
+          "text": "sure",
+          "start": 24.56,
+          "end": 25.12,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2568,
+      "start": 25.68,
+      "end": 31.02,
+      "text": " And I am built like a mother and a total machine",
+      "tokens": [
+        50365,
+        400,
+        286,
+        669,
+        3094,
+        411,
+        257,
+        2895,
+        293,
+        257,
+        3217,
+        3479,
+        50663
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3174590197476474,
+      "compression_ratio": 1.4390243902439024,
+      "no_speech_prob": 0.006592884659767151,
+      "confidence": 0.958,
+      "words": [
+        {
+          "text": "And",
+          "start": 25.68,
+          "end": 27.82,
+          "confidence": 0.994
+        },
+        {
+          "text": "I",
+          "start": 27.82,
+          "end": 28.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "am",
+          "start": 28.02,
+          "end": 28.64,
+          "confidence": 0.999
+        },
+        {
+          "text": "built",
+          "start": 28.64,
+          "end": 28.98,
+          "confidence": 1.0
+        },
+        {
+          "text": "like",
+          "start": 28.98,
+          "end": 29.28,
+          "confidence": 1.0
+        },
+        {
+          "text": "a",
+          "start": 29.28,
+          "end": 29.36,
+          "confidence": 1.0
+        },
+        {
+          "text": "mother",
+          "start": 29.36,
+          "end": 29.78,
+          "confidence": 0.999
+        },
+        {
+          "text": "and",
+          "start": 29.78,
+          "end": 30.0,
+          "confidence": 0.634
+        },
+        {
+          "text": "a",
+          "start": 30.0,
+          "end": 30.16,
+          "confidence": 0.999
+        },
+        {
+          "text": "total",
+          "start": 30.16,
+          "end": 30.54,
+          "confidence": 0.995
+        },
+        {
+          "text": "machine",
+          "start": 30.54,
+          "end": 31.02,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2568,
+      "start": 33.72,
+      "end": 37.24,
+      "text": " I feel free for every little issue, I know just what you mean",
+      "tokens": [
+        50663,
+        286,
+        841,
+        1737,
+        337,
+        633,
+        707,
+        2734,
+        11,
+        286,
+        458,
+        445,
+        437,
+        291,
+        914,
+        51012
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3174590197476474,
+      "compression_ratio": 1.4390243902439024,
+      "no_speech_prob": 0.006592884659767151,
+      "confidence": 0.881,
+      "words": [
+        {
+          "text": "I",
+          "start": 33.72,
+          "end": 33.92,
+          "confidence": 0.978
+        },
+        {
+          "text": "feel",
+          "start": 33.92,
+          "end": 34.16,
+          "confidence": 0.999
+        },
+        {
+          "text": "for",
+          "start": 34.16,
+          "end": 34.64,
+          "confidence": 0.576
+        },
+        {
+          "text": "your",
+          "start": 34.64,
+          "end": 34.88,
+          "confidence": 0.367
+        },
+        {
+          "text": "every",
+          "start": 34.88,
+          "end": 35.12,
+          "confidence": 1.0
+        },
+        {
+          "text": "little",
+          "start": 35.12,
+          "end": 35.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "issue",
+          "start": 35.5,
+          "end": 35.9,
+          "confidence": 1.0
+        },
+        {
+          "text": "I",
+          "start": 36.0,
+          "end": 36.22,
+          "confidence": 1.0
+        },
+        {
+          "text": "know",
+          "start": 36.22,
+          "end": 36.32,
+          "confidence": 0.962
+        },
+        {
+          "text": "just",
+          "start": 36.32,
+          "end": 36.56,
+          "confidence": 1.0
+        },
+        {
+          "text": "what",
+          "start": 36.56,
+          "end": 36.68,
+          "confidence": 1.0
+        },
+        {
+          "text": "you",
+          "start": 36.68,
+          "end": 36.88,
+          "confidence": 0.995
+        },
+        {
+          "text": "mean",
+          "start": 36.88,
+          "end": 37.24,
+          "confidence": 0.98
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2568,
+      "start": 39.92,
+      "end": 45.22,
+      "text": " And I make light of the darkness, I've got sun in my motherfucking pocket",
+      "tokens": [
+        51012,
+        400,
+        286,
+        652,
+        1442,
+        295,
+        264,
+        11262,
+        11,
+        286,
+        600,
+        658,
+        3295,
+        294,
+        452,
+        29537,
+        33260,
+        8963,
+        51354
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3174590197476474,
+      "compression_ratio": 1.4390243902439024,
+      "no_speech_prob": 0.006592884659767151,
+      "confidence": 0.946,
+      "words": [
+        {
+          "text": "And",
+          "start": 39.92,
+          "end": 40.16,
+          "confidence": 0.986
+        },
+        {
+          "text": "I",
+          "start": 40.16,
+          "end": 40.36,
+          "confidence": 1.0
+        },
+        {
+          "text": "make",
+          "start": 40.36,
+          "end": 40.88,
+          "confidence": 0.944
+        },
+        {
+          "text": "light",
+          "start": 40.88,
+          "end": 41.36,
+          "confidence": 0.999
+        },
+        {
+          "text": "of",
+          "start": 41.36,
+          "end": 41.56,
+          "confidence": 0.941
+        },
+        {
+          "text": "the",
+          "start": 41.56,
+          "end": 41.72,
+          "confidence": 0.999
+        },
+        {
+          "text": "darkness",
+          "start": 41.72,
+          "end": 42.22,
+          "confidence": 1.0
+        },
+        {
+          "text": "I've",
+          "start": 42.48,
+          "end": 42.92,
+          "confidence": 0.996
+        },
+        {
+          "text": "got",
+          "start": 42.92,
+          "end": 43.22,
+          "confidence": 0.999
+        },
+        {
+          "text": "sun",
+          "start": 43.22,
+          "end": 43.52,
+          "confidence": 0.95
+        },
+        {
+          "text": "in",
+          "start": 43.52,
+          "end": 43.84,
+          "confidence": 0.82
+        },
+        {
+          "text": "my",
+          "start": 43.84,
+          "end": 44.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "motherfucking",
+          "start": 44.02,
+          "end": 44.74,
+          "confidence": 0.78
+        },
+        {
+          "text": "pocket",
+          "start": 44.74,
+          "end": 45.22,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2568,
+      "start": 45.22,
+      "end": 50.5,
+      "text": " Cause we, yeah you know me, I",
+      "tokens": [
+        51354,
+        10865,
+        321,
+        11,
+        1338,
+        291,
+        458,
+        385,
+        11,
+        286,
+        51629
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3174590197476474,
+      "compression_ratio": 1.4390243902439024,
+      "no_speech_prob": 0.006592884659767151,
+      "confidence": 0.6,
+      "words": [
+        {
+          "text": "best",
+          "start": 45.22,
+          "end": 45.98,
+          "confidence": 0.177
+        },
+        {
+          "text": "believe",
+          "start": 45.98,
+          "end": 46.22,
+          "confidence": 0.558
+        },
+        {
+          "text": "yeah",
+          "start": 46.72,
+          "end": 48.48,
+          "confidence": 0.87
+        },
+        {
+          "text": "you",
+          "start": 48.48,
+          "end": 48.78,
+          "confidence": 0.81
+        },
+        {
+          "text": "know",
+          "start": 48.78,
+          "end": 49.18,
+          "confidence": 0.975
+        },
+        {
+          "text": "me",
+          "start": 49.18,
+          "end": 49.52,
+          "confidence": 0.918
+        },
+        {
+          "text": "I",
+          "start": 49.8,
+          "end": 50.5,
+          "confidence": 0.452
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2568,
+      "start": 52.66,
+      "end": 55.16,
+      "text": " Forgive and I forgive",
+      "tokens": [
+        51629,
+        34060,
+        293,
+        286,
+        10718,
+        51854
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3174590197476474,
+      "compression_ratio": 1.4390243902439024,
+      "no_speech_prob": 0.006592884659767151,
+      "confidence": 0.78,
+      "words": [
+        {
+          "text": "Forgive",
+          "start": 52.66,
+          "end": 53.34,
+          "confidence": 0.677
+        },
+        {
+          "text": "and",
+          "start": 53.34,
+          "end": 54.26,
+          "confidence": 0.706
+        },
+        {
+          "text": "I",
+          "start": 54.26,
+          "end": 54.64,
+          "confidence": 0.966
+        },
+        {
+          "text": "forget",
+          "start": 54.64,
+          "end": 55.16,
+          "confidence": 0.804
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 5568,
+      "start": 55.68,
+      "end": 58.94,
+      "text": " I know my age and I act like it",
+      "tokens": [
+        50365,
+        286,
+        458,
+        452,
+        3205,
+        293,
+        286,
+        605,
+        411,
+        309,
+        50535
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29298173904418945,
+      "compression_ratio": 1.758974358974359,
+      "no_speech_prob": 0.001630739076063037,
+      "confidence": 0.992,
+      "words": [
+        {
+          "text": "I",
+          "start": 55.68,
+          "end": 56.08,
+          "confidence": 0.973
+        },
+        {
+          "text": "know",
+          "start": 56.08,
+          "end": 56.56,
+          "confidence": 0.993
+        },
+        {
+          "text": "my",
+          "start": 56.56,
+          "end": 57.06,
+          "confidence": 1.0
+        },
+        {
+          "text": "age",
+          "start": 57.06,
+          "end": 57.44,
+          "confidence": 0.98
+        },
+        {
+          "text": "and",
+          "start": 57.44,
+          "end": 57.72,
+          "confidence": 0.999
+        },
+        {
+          "text": "I",
+          "start": 57.72,
+          "end": 57.88,
+          "confidence": 0.999
+        },
+        {
+          "text": "act",
+          "start": 57.88,
+          "end": 58.26,
+          "confidence": 0.999
+        },
+        {
+          "text": "like",
+          "start": 58.26,
+          "end": 58.6,
+          "confidence": 0.997
+        },
+        {
+          "text": "it",
+          "start": 58.6,
+          "end": 58.94,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 5568,
+      "start": 58.94,
+      "end": 61.44,
+      "text": " God, what you can't resist",
+      "tokens": [
+        50535,
+        1265,
+        11,
+        437,
+        291,
+        393,
+        380,
+        4597,
+        50692
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29298173904418945,
+      "compression_ratio": 1.758974358974359,
+      "no_speech_prob": 0.001630739076063037,
+      "confidence": 0.843,
+      "words": [
+        {
+          "text": "Got",
+          "start": 58.94,
+          "end": 59.34,
+          "confidence": 0.677
+        },
+        {
+          "text": "what",
+          "start": 59.36,
+          "end": 59.88,
+          "confidence": 0.745
+        },
+        {
+          "text": "you",
+          "start": 59.88,
+          "end": 60.3,
+          "confidence": 0.811
+        },
+        {
+          "text": "can't",
+          "start": 60.3,
+          "end": 60.98,
+          "confidence": 0.936
+        },
+        {
+          "text": "resist",
+          "start": 60.98,
+          "end": 61.44,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 5568,
+      "start": 62.84,
+      "end": 63.94,
+      "text": " I'm a perfect American",
+      "tokens": [
+        50692,
+        286,
+        478,
+        257,
+        2176,
+        2665,
+        50806
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29298173904418945,
+      "compression_ratio": 1.758974358974359,
+      "no_speech_prob": 0.001630739076063037,
+      "confidence": 0.748,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 62.84,
+          "end": 63.08,
+          "confidence": 0.999
+        },
+        {
+          "text": "a",
+          "start": 63.08,
+          "end": 63.16,
+          "confidence": 0.968
+        },
+        {
+          "text": "perfect",
+          "start": 63.16,
+          "end": 63.52,
+          "confidence": 0.994
+        },
+        {
+          "text": "all-American",
+          "start": 63.52,
+          "end": 63.94,
+          "confidence": 0.243
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 5568,
+      "start": 64.48,
+      "end": 67.94,
+      "text": " I am light as a feather, I'm as fresh as the air",
+      "tokens": [
+        50806,
+        286,
+        669,
+        1442,
+        382,
+        257,
+        25852,
+        11,
+        286,
+        478,
+        382,
+        4451,
+        382,
+        264,
+        1988,
+        51015
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29298173904418945,
+      "compression_ratio": 1.758974358974359,
+      "no_speech_prob": 0.001630739076063037,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "I",
+          "start": 64.48,
+          "end": 65.06,
+          "confidence": 0.998
+        },
+        {
+          "text": "am",
+          "start": 65.06,
+          "end": 65.42,
+          "confidence": 1.0
+        },
+        {
+          "text": "light",
+          "start": 65.42,
+          "end": 65.88,
+          "confidence": 0.999
+        },
+        {
+          "text": "as",
+          "start": 65.88,
+          "end": 66.06,
+          "confidence": 1.0
+        },
+        {
+          "text": "a",
+          "start": 66.06,
+          "end": 66.2,
+          "confidence": 1.0
+        },
+        {
+          "text": "feather,",
+          "start": 66.2,
+          "end": 66.56,
+          "confidence": 1.0
+        },
+        {
+          "text": "I'm",
+          "start": 66.66,
+          "end": 67.0,
+          "confidence": 1.0
+        },
+        {
+          "text": "as",
+          "start": 67.0,
+          "end": 67.02,
+          "confidence": 0.999
+        },
+        {
+          "text": "fresh",
+          "start": 67.02,
+          "end": 67.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "as",
+          "start": 67.24,
+          "end": 67.46,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 67.46,
+          "end": 67.58,
+          "confidence": 1.0
+        },
+        {
+          "text": "air",
+          "start": 67.58,
+          "end": 67.94,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 5568,
+      "start": 70.62,
+      "end": 74.08,
+      "text": " Coca-Cola bottles that ail me used to curl my hair",
+      "tokens": [
+        51015,
+        32719,
+        12,
+        42441,
+        15923,
+        300,
+        48283,
+        385,
+        1143,
+        281,
+        22591,
+        452,
+        2578,
+        51378
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29298173904418945,
+      "compression_ratio": 1.758974358974359,
+      "no_speech_prob": 0.001630739076063037,
+      "confidence": 0.868,
+      "words": [
+        {
+          "text": "Coca-Cola",
+          "start": 70.62,
+          "end": 71.54,
+          "confidence": 0.974
+        },
+        {
+          "text": "bottles",
+          "start": 71.54,
+          "end": 71.94,
+          "confidence": 0.999
+        },
+        {
+          "text": "that",
+          "start": 71.94,
+          "end": 72.3,
+          "confidence": 0.812
+        },
+        {
+          "text": "I",
+          "start": 72.3,
+          "end": 72.5,
+          "confidence": 0.493
+        },
+        {
+          "text": "only",
+          "start": 72.5,
+          "end": 72.7,
+          "confidence": 0.993
+        },
+        {
+          "text": "use",
+          "start": 72.7,
+          "end": 72.98,
+          "confidence": 0.618
+        },
+        {
+          "text": "to",
+          "start": 72.98,
+          "end": 73.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "curl",
+          "start": 73.16,
+          "end": 73.36,
+          "confidence": 0.802
+        },
+        {
+          "text": "my",
+          "start": 73.36,
+          "end": 73.58,
+          "confidence": 1.0
+        },
+        {
+          "text": "hair",
+          "start": 73.58,
+          "end": 74.08,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 5568,
+      "start": 76.86,
+      "end": 83.32,
+      "text": " I've got class and integrity just like the goddamn Kennedy, I swear",
+      "tokens": [
+        51378,
+        286,
+        600,
+        658,
+        1508,
+        293,
+        16000,
+        445,
+        411,
+        264,
+        32951,
+        16517,
+        11,
+        286,
+        11902,
+        51770
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29298173904418945,
+      "compression_ratio": 1.758974358974359,
+      "no_speech_prob": 0.001630739076063037,
+      "confidence": 0.943,
+      "words": [
+        {
+          "text": "I've",
+          "start": 76.86,
+          "end": 77.02,
+          "confidence": 0.768
+        },
+        {
+          "text": "got",
+          "start": 77.02,
+          "end": 77.34,
+          "confidence": 1.0
+        },
+        {
+          "text": "class",
+          "start": 77.34,
+          "end": 77.68,
+          "confidence": 0.999
+        },
+        {
+          "text": "and",
+          "start": 77.68,
+          "end": 78.02,
+          "confidence": 0.984
+        },
+        {
+          "text": "integrity",
+          "start": 78.02,
+          "end": 78.76,
+          "confidence": 1.0
+        },
+        {
+          "text": "just",
+          "start": 78.76,
+          "end": 79.66,
+          "confidence": 0.911
+        },
+        {
+          "text": "like",
+          "start": 79.66,
+          "end": 80.2,
+          "confidence": 0.998
+        },
+        {
+          "text": "a",
+          "start": 80.2,
+          "end": 80.34,
+          "confidence": 0.897
+        },
+        {
+          "text": "goddamn",
+          "start": 80.34,
+          "end": 81.06,
+          "confidence": 0.997
+        },
+        {
+          "text": "Kennedy",
+          "start": 81.06,
+          "end": 81.96,
+          "confidence": 0.984
+        },
+        {
+          "text": "I",
+          "start": 82.5,
+          "end": 82.78,
+          "confidence": 1.0
+        },
+        {
+          "text": "swear",
+          "start": 82.78,
+          "end": 83.32,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 5568,
+      "start": 83.5,
+      "end": 85.76,
+      "text": " With love and integrity, I'm a perfect American",
+      "tokens": [
+        51770,
+        2022,
+        959,
+        293,
+        16000,
+        11,
+        286,
+        478,
+        257,
+        2176,
+        2665,
+        51863
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29298173904418945,
+      "compression_ratio": 1.758974358974359,
+      "no_speech_prob": 0.001630739076063037,
+      "confidence": 0.582,
+      "words": [
+        {
+          "text": "With",
+          "start": 83.5,
+          "end": 85.26,
+          "confidence": 0.335
+        },
+        {
+          "text": "love",
+          "start": 85.26,
+          "end": 85.52,
+          "confidence": 0.665
+        },
+        {
+          "text": "to",
+          "start": 85.52,
+          "end": 85.66,
+          "confidence": 0.626
+        },
+        {
+          "text": "spare",
+          "start": 85.66,
+          "end": 89.00,
+          "confidence": 0.222
+        }
+      ]
+    },
+    
+    {
+      "id": 18,
+      "seek": 8568,
+      "start": 85.92,
+      "end": 100.56,
+      "text": " I'm a perfect American",
+      "tokens": [
+        50365,
+        286,
+        478,
+        257,
+        2176,
+        2665,
+        51864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.47102562586466473,
+      "compression_ratio": 0.7333333333333333,
+      "no_speech_prob": 0.003411484183743596,
+      "confidence": 0.714,
+      "words": [
+        {
+          "text": "I Forgive",
+          "start": 89.7,
+          "end": 90.38,
+          "confidence": 0.677
+      },
+      {
+          "text": "and",
+          "start": 90.38,
+          "end": 91.3,
+          "confidence": 0.706
+      },
+      {
+          "text": "I",
+          "start": 91.3,
+          "end": 91.68,
+          "confidence": 0.966
+      },
+      {
+          "text": "forget",
+          "start": 91.68,
+          "end": 92.2,
+          "confidence": 0.804
+      },
+      {
+          "text": "I",
+          "start": 92.72,
+          "end": 93.12,
+          "confidence": 0.973
+      },
+      {
+          "text": "know",
+          "start": 93.12,
+          "end": 93.6,
+          "confidence": 0.993
+      },
+      {
+          "text": "my",
+          "start": 93.6,
+          "end": 94.1,
+          "confidence": 1.0
+      },
+      {
+          "text": "age",
+          "start": 94.1,
+          "end": 94.48,
+          "confidence": 0.98
+      },
+      {
+          "text": "and",
+          "start": 94.48,
+          "end": 94.76,
+          "confidence": 0.999
+      },
+      {
+          "text": "I",
+          "start": 94.76,
+          "end": 94.92,
+          "confidence": 0.999
+      },
+      {
+          "text": "act",
+          "start": 94.92,
+          "end": 95.3,
+          "confidence": 0.999
+      },
+      {
+          "text": "like",
+          "start": 95.3,
+          "end": 95.64,
+          "confidence": 0.997
+      },
+      {
+          "text": "it",
+          "start": 95.64,
+          "end": 95.98,
+          "confidence": 0.99
+      },
+      {
+          "text": "Got",
+          "start": 95.98,
+          "end": 96.38,
+          "confidence": 0.677
+      },
+      {
+          "text": "what",
+          "start": 96.4,
+          "end": 96.92,
+          "confidence": 0.745
+      },
+      {
+          "text": "you",
+          "start": 96.92,
+          "end": 97.34,
+          "confidence": 0.811
+      },
+      {
+          "text": "can't",
+          "start": 97.34,
+          "end": 98.02,
+          "confidence": 0.936
+      },
+      {
+          "text": "resist",
+          "start": 98.02,
+          "end": 98.48,
+          "confidence": 1.0
+      },
+      {
+          "text": "I'm",
+          "start": 99.88,
+          "end": 100.12,
+          "confidence": 0.999
+      },
+      {
+          "text": "a",
+          "start": 100.12,
+          "end": 100.2,
+          "confidence": 0.968
+      },
+      {
+          "text": "perfect",
+          "start": 100.2,
+          "end": 100.56,
+          "confidence": 0.994
+      },
+      {
+          "text": "all-American",
+          "start": 100.56,
+          "end": 100.98,
+          "confidence": 0.243
+      },
+      {
+        "text": "bitch",
+        "start": 100.98,
+        "end": 101.82,
+        "confidence": 0.813
+    },
+    {
+        "text": "With",
+        "start": 102.66,
+        "end": 102.82,
+        "confidence": 0.984
+    },
+    {
+        "text": "perfect",
+        "start": 102.82,
+        "end": 103.16,
+        "confidence": 0.997
+    },
+    {
+        "text": "all-American",
+        "start": 103.16,
+        "end": 104.14,
+        "confidence": 0.998
+    },
+    {
+        "text": "lips",
+        "start": 104.14,
+        "end": 105.08,
+        "confidence": 0.977
+    },
+    {
+        "text": "And",
+        "start": 105.34,
+        "end": 105.86,
+        "confidence": 0.997
+    },
+    {
+        "text": "perfect",
+        "start": 105.86,
+        "end": 106.2,
+        "confidence": 1.0
+    },
+    {
+        "text": "all-American",
+        "start": 106.2,
+        "end": 107.14,
+        "confidence": 1.0
+    },
+    {
+        "text": "hips",
+        "start": 107.14,
+        "end": 107.68,
+        "confidence": 0.997
+    },
+    {
+        "text": "I",
+        "start": 108.68,
+        "end": 108.76,
+        "confidence": 0.998
+    },
+    {
+        "text": "know",
+        "start": 108.76,
+        "end": 109.1,
+        "confidence": 0.996
+    },
+    {
+        "text": "my",
+        "start": 109.1,
+        "end": 109.66,
+        "confidence": 1.0
+    },
+    {
+        "text": "place,",
+        "start": 109.66,
+        "end": 110.06,
+        "confidence": 0.995
+    },
+    {
+        "text": "I",
+        "start": 110.18,
+        "end": 110.42,
+        "confidence": 0.999
+    },
+    {
+        "text": "know",
+        "start": 110.42,
+        "end": 110.78,
+        "confidence": 1.0
+    },
+    {
+        "text": "my",
+        "start": 110.78,
+        "end": 111.0,
+        "confidence": 1.0
+    },
+    {
+        "text": "place",
+        "start": 111.0,
+        "end": 111.61,
+        "confidence": 0.999
+    },
+    {
+        "text": "And this is it",
+        "start": 111.61,
+        "end": 111.96,
+        "confidence": 0.898
+    },
+    {
+        "text": "I",
+        "start": 111.94,
+        "end": 112.28,
+        "confidence": 0.395
+    },
+    {
+        "text": "don't",
+        "start": 112.28,
+        "end": 114.0,
+        "confidence": 0.991
+    },
+    {
+        "text": "get",
+        "start": 114.0,
+        "end": 114.14,
+        "confidence": 0.999
+    },
+    {
+        "text": "angry",
+        "start": 114.14,
+        "end": 114.82,
+        "confidence": 1.0
+    },
+    {
+        "text": "when",
+        "start": 114.82,
+        "end": 115.38,
+        "confidence": 0.986
+    },
+    {
+        "text": "I'm",
+        "start": 115.38,
+        "end": 115.78,
+        "confidence": 0.771
+    },
+    {
+        "text": "pissed",
+        "start": 115.78,
+        "end": 116.17,
+        "confidence": 0.993
+    }      
+    ]
+    },
+    {
+      "id": 19,
+      "seek": 11566,
+      "start": 115.66,
+      "end": 119.12,
+      "text": " I'm this, I'm the eternal optimist",
+      "tokens": [
+        50365,
+        286,
+        478,
+        341,
+        11,
+        286,
+        478,
+        264,
+        14503,
+        5028,
+        468,
+        50515
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.39068303789411274,
+      "compression_ratio": 1.375,
+      "no_speech_prob": 0.001525635365396738,
+      "confidence": 0.791,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 116.28,
+          "end": 116.72,
+          "confidence": 0.951
+        },
+        {
+          "text": "the",
+          "start": 116.72,
+          "end": 116.9,
+          "confidence": 0.748
+        },
+        {
+          "text": "eternal",
+          "start": 116.9,
+          "end": 117.88,
+          "confidence": 0.826
+        },
+        {
+          "text": "optimist",
+          "start": 117.88,
+          "end": 119.12,
+          "confidence": 0.625
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 11566,
+      "start": 119.34,
+      "end": 122.82,
+      "text": " I scream inside to feel it new again",
+      "tokens": [
+        50556,
+        286,
+        7291,
+        1854,
+        281,
+        841,
+        309,
+        777,
+        797,
+        50765
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.39068303789411274,
+      "compression_ratio": 1.375,
+      "no_speech_prob": 0.001525635365396738,
+      "confidence": 0.75,
+      "words": [
+        {
+          "text": "I",
+          "start": 119.34,
+          "end": 119.68,
+          "confidence": 0.979
+        },
+        {
+          "text": "scream",
+          "start": 119.68,
+          "end": 119.96,
+          "confidence": 0.757
+        },
+        {
+          "text": "inside",
+          "start": 119.96,
+          "end": 120.52,
+          "confidence": 0.978
+        },
+        {
+          "text": "to",
+          "start": 120.52,
+          "end": 121.06,
+          "confidence": 0.693
+        },
+        {
+          "text": "deal",
+          "start": 121.06,
+          "end": 121.6,
+          "confidence": 0.885
+        },
+        {
+          "text": "with it",
+          "start": 121.6,
+          "end": 121.8,
+          "confidence": 0.494
+        },
+        {
+          "text": "new",
+          "start": 121.8,
+          "end": 122.3,
+          "confidence": 0.544
+        },
+        {
+          "text": "again",
+          "start": 122.3,
+          "end": 122.82,
+          "confidence": 0.836
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 11566,
+      "start": 125.32,
+      "end": 125.61,
+      "text": " Again",
+      "tokens": [
+        50765,
+        3764,
+        50887
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.39068303789411274,
+      "compression_ratio": 1.375,
+      "no_speech_prob": 0.001525635365396738,
+      "confidence": 0.444,
+      "words": [
+        {
+          "text": "Again",
+          "start": 125.32,
+          "end": 125.61,
+          "confidence": 0.444
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 11566,
+      "start": 125.61,
+      "end": 139.94,
+      "text": " All the time",
+      "tokens": [
+        50887,
+        1057,
+        264,
+        565,
+        51608
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.39068303789411274,
+      "compression_ratio": 1.375,
+      "no_speech_prob": 0.001525635365396738,
+      "confidence": 0.893,
+      "words": [
+        {
+          "text": "All",
+          "start": 125.61,
+          "end": 132.3,
+          "confidence": 0.712
+        },
+        {
+          "text": "the",
+          "start": 132.3,
+          "end": 139.0,
+          "confidence": 1.0
+        },
+        {
+          "text": "time",
+          "start": 139.0,
+          "end": 139.94,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 11566,
+      "start": 140.12,
+      "end": 143.18,
+      "text": " I'm grateful all the time",
+      "tokens": [
+        51608,
+        286,
+        478,
+        7941,
+        439,
+        264,
+        565,
+        51761
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.39068303789411274,
+      "compression_ratio": 1.375,
+      "no_speech_prob": 0.001525635365396738,
+      "confidence": 0.993,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 140.12,
+          "end": 141.2,
+          "confidence": 0.996
+        },
+        {
+          "text": "grateful",
+          "start": 141.2,
+          "end": 141.62,
+          "confidence": 1.0
+        },
+        {
+          "text": "all",
+          "start": 141.62,
+          "end": 142.28,
+          "confidence": 0.968
+        },
+        {
+          "text": "the",
+          "start": 142.28,
+          "end": 142.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "time",
+          "start": 142.5,
+          "end": 143.18,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 11566,
+      "start": 143.18,
+      "end": 145.64,
+      "text": " I'm sexy and I'm beautiful",
+      "tokens": [
+        51761,
+        286,
+        478,
+        13701,
+        293,
+        286,
+        478,
+        2238,
+        51864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.39068303789411274,
+      "compression_ratio": 1.375,
+      "no_speech_prob": 0.001525635365396738,
+      "confidence": 0.653,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 143.18,
+          "end": 144.22,
+          "confidence": 0.992
+        },
+        {
+          "text": "sexy",
+          "start": 144.22,
+          "end": 144.68,
+          "confidence": 0.998
+        },
+        {
+          "text": "and",
+          "start": 144.68,
+          "end": 145.16,
+          "confidence": 0.979
+        },
+        {
+          "text": "I'm",
+          "start": 145.16,
+          "end": 145.54,
+          "confidence": 0.738
+        },
+        {
+          "text": "beautiful",
+          "start": 145.54,
+          "end": 145.64,
+          "confidence": 0.096
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 14564,
+      "start": 145.64,
+      "end": 146.3,
+      "text": " I'm kind",
+      "tokens": [
+        50365,
+        286,
+        478,
+        733,
+        50415
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3121136318553578,
+      "compression_ratio": 1.527027027027027,
+      "no_speech_prob": 0.007924342527985573,
+      "confidence": 0.781,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 145.64,
+          "end": 145.68,
+          "confidence": 0.82
+        },
+        {
+          "text": "kind",
+          "start": 145.68,
+          "end": 146.3,
+          "confidence": 0.708
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 14564,
+      "start": 146.52,
+      "end": 149.22,
+      "text": " I'm pretty when I cry",
+      "tokens": [
+        50415,
+        286,
+        478,
+        1238,
+        562,
+        286,
+        3305,
+        50565
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3121136318553578,
+      "compression_ratio": 1.527027027027027,
+      "no_speech_prob": 0.007924342527985573,
+      "confidence": 0.983,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 146.52,
+          "end": 147.2,
+          "confidence": 0.977
+        },
+        {
+          "text": "pretty",
+          "start": 147.2,
+          "end": 147.62,
+          "confidence": 0.978
+        },
+        {
+          "text": "when",
+          "start": 147.62,
+          "end": 148.14,
+          "confidence": 0.982
+        },
+        {
+          "text": "I",
+          "start": 148.14,
+          "end": 148.42,
+          "confidence": 0.996
+        },
+        {
+          "text": "cry",
+          "start": 148.42,
+          "end": 149.22,
+          "confidence": 0.988
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 14564,
+      "start": 150.12,
+      "end": 151.88,
+      "text": " All the time",
+      "tokens": [
+        50565,
+        1057,
+        264,
+        565,
+        50721
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3121136318553578,
+      "compression_ratio": 1.527027027027027,
+      "no_speech_prob": 0.007924342527985573,
+      "confidence": 0.809,
+      "words": [
+        {
+          "text": "All",
+          "start": 150.12,
+          "end": 150.38,
+          "confidence": 0.533
+        },
+        {
+          "text": "the",
+          "start": 150.38,
+          "end": 151.22,
+          "confidence": 0.994
+        },
+        {
+          "text": "time",
+          "start": 151.22,
+          "end": 151.88,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 14564,
+      "start": 152.26,
+      "end": 155.1,
+      "text": " I'm grateful all the time",
+      "tokens": [
+        50721,
+        286,
+        478,
+        7941,
+        439,
+        264,
+        565,
+        50865
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3121136318553578,
+      "compression_ratio": 1.527027027027027,
+      "no_speech_prob": 0.007924342527985573,
+      "confidence": 0.985,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 152.26,
+          "end": 153.3,
+          "confidence": 0.993
+        },
+        {
+          "text": "grateful",
+          "start": 153.3,
+          "end": 153.9,
+          "confidence": 0.936
+        },
+        {
+          "text": "all",
+          "start": 153.9,
+          "end": 154.3,
+          "confidence": 0.992
+        },
+        {
+          "text": "the",
+          "start": 154.3,
+          "end": 154.64,
+          "confidence": 1.0
+        },
+        {
+          "text": "time",
+          "start": 154.64,
+          "end": 155.1,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 14564,
+      "start": 155.5,
+      "end": 158.46,
+      "text": " I'm sexy and I'm kind",
+      "tokens": [
+        50865,
+        286,
+        478,
+        13701,
+        293,
+        286,
+        478,
+        733,
+        51028
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3121136318553578,
+      "compression_ratio": 1.527027027027027,
+      "no_speech_prob": 0.007924342527985573,
+      "confidence": 0.988,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 155.5,
+          "end": 156.32,
+          "confidence": 0.974
+        },
+        {
+          "text": "sexy",
+          "start": 156.32,
+          "end": 156.56,
+          "confidence": 0.989
+        },
+        {
+          "text": "and",
+          "start": 156.56,
+          "end": 157.32,
+          "confidence": 0.998
+        },
+        {
+          "text": "I'm",
+          "start": 157.32,
+          "end": 157.98,
+          "confidence": 1.0
+        },
+        {
+          "text": "kind",
+          "start": 157.98,
+          "end": 158.46,
+          "confidence": 0.98
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 14564,
+      "start": 159.22,
+      "end": 161.2,
+      "text": " I'm pretty when I cry",
+      "tokens": [
+        51028,
+        286,
+        478,
+        1238,
+        562,
+        286,
+        3305,
+        51165
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3121136318553578,
+      "compression_ratio": 1.527027027027027,
+      "no_speech_prob": 0.007924342527985573,
+      "confidence": 0.999,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 159.22,
+          "end": 159.44,
+          "confidence": 1.0
+        },
+        {
+          "text": "pretty",
+          "start": 159.44,
+          "end": 159.9,
+          "confidence": 0.997
+        },
+        {
+          "text": "when",
+          "start": 159.9,
+          "end": 160.38,
+          "confidence": 0.999
+        },
+        {
+          "text": "I",
+          "start": 160.38,
+          "end": 160.7,
+          "confidence": 1.0
+        },
+        {
+          "text": "cry",
+          "start": 160.7,
+          "end": 161.2,
+          "confidence": 0.999
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

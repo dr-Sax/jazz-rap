@@ -324,7 +324,7 @@ if __name__ == "__main__":
     ]
     
     create_rap_video(
-        audio_path="allstar.wav",
+        audio_path="allstar.mp3",
         lyrics_json_path="allstar_fmt.json",
         video_segments=video_segments
     )
